@@ -1,0 +1,14 @@
+@media screen and (max-width: 768px) {
+	aside {
+		width: 100%;
+		border-right: none;
+	}
+
+	aside > section > option.seleccionado {
+		background-color: #111;
+	}
+
+	main {
+		width: 100%;
+	}
+}
